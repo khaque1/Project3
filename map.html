@@ -8,10 +8,12 @@
 	<link rel="stylesheet" href="css/normalize.css">
 	<link rel="shortcut icon" href="pics/map.png">
 	<link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDxMgrT0Nx9Wv62czpy0rbP6z6Q7t3UlRc&callback=initMap" async defer></script>
+	<script src="script.js"></script>
   </head>
   
   <body>
-	<h1 id="title">Kinza Haque | About Me </h1>
+	<h1 id="titles">Kinza Haque | Map </h1>
 	  <nav id= "tabs">
 	    <ul>
 		  <li><a href="index.html">About Me</a></li>
@@ -20,5 +22,10 @@
 		  <li><a href="#">Map</a></li>
 		</ul>
 	  </nav>
+	  <div id = "wrapper">
+	    <div id="map"></div>
+	  </div>
+	  <hr>
+	  <p id="footer"> Created by Kinza Haque. Last updated 4/8/2019. </p>
   </body>
   </html>
