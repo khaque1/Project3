@@ -1,0 +1,147 @@
+body {
+  background-color: LavenderBlush;
+  background-size: cover;
+  font-size: 15px;
+  margin: 10px;
+}
+
+nav#tabs {
+  background-color: LavenderBlush;
+  text-align:center;
+  font-family: "Shadows Into Light", cursive;
+  font-size: 20px;
+}
+
+nav#tabs ul{
+  list-style: none;
+  padding:0;
+  overflow: hidden;
+}
+
+nav#tabs ul li{
+  float: left;
+  margin-left:220px;
+  display:inline;
+}
+
+nav#tabs ul li a {
+  display: inline-block;
+  padding: 20px;
+  color: gray;
+  text-decoration:none;
+  background-color: LavenderBlush;
+  color: DarkRed;
+  font-weight: bold;
+  text-align:center;
+}
+
+nav#tabs ul li a:hover{
+  color: gray;
+}
+
+img{
+  width: 25%;
+  height: 25%; 
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+#logo {
+  width: 20%;
+  height: 20%; 
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+		
+}
+#mantled1, #mantled, #mantled3{
+  text-align:center;
+  width: 30%;
+  height: 30%; 
+  display: inline;
+  float: none;
+}
+
+#mantled1{
+  margin-left:100px;
+}
+
+video {
+  width: auto;
+  height: 475px;	
+  display:inline;
+}
+
+h1 {
+  font-family: "Shadows Into Light", cursive;
+  text-align: center;
+  font-weight: bold;
+}
+
+#titles{
+  font-size:40px;
+  background-color:LavenderBlush;
+}
+
+h2, h3 {
+  font-family: "Palatino Linotype", sans-serif;
+  margin-left: 60px;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+#email {
+  font-family: "Palatino Linotype", sans-serif;
+  margin-left: 30px;
+  float: none;
+}
+
+#bio, #mbio {
+  font-family: "Palatino Linotype", sans-serif;
+  font-size: 20px;
+  text-align: justify;
+  margin: 20px;
+  float: left;
+}
+
+#insta {
+  font-family: "Palatino Linotype", sans-serif;
+  font-size: 15px;
+  margin:510px;
+}
+
+#subtext,#subtext2, #subtext3, #subtext4, #subtext5,#subtext6, #bullets, #bullets2, #bullets3, #bullets4, #bullets5 {
+  font-family: "Palatino Linotype", sans-serif;
+  margin-left: 70px;
+}
+
+#subtext,#subtext2,#subtext3, #subtext4, #subtext5,#subtext6 {
+  font-style: italic;
+}
+
+hr {
+  width: auto;
+  color: black;
+  border: 1px solid gray; 
+}
+
+#footer {
+  font-family: "Shadows Into Light";
+  font-size: 18px;
+  margin-left: 485px;
+  color: DarkRed;
+}
+
+#reference, #referenceK {
+  font-family: "Shadows Into Light";
+  font-size: 12px;
+  margin-left: 490px;
+  color: DarkRed;
+}
+
+#referenceK {
+  text-decoration:none;
+  margin-left: 600px;
+}
