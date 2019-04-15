@@ -16,11 +16,12 @@ nav#tabs ul{
   list-style: none;
   padding:0;
   overflow: hidden;
+  position: relative;
 }
 
 nav#tabs ul li{
   float: left;
-  margin-left:220px;
+  margin-left:160px;
   display:inline;
 }
 
