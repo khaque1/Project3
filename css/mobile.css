@@ -41,7 +41,7 @@
 	display: block;
 	margin-left: 80px;
 	margin-right:auto;
-	float: center;
+	float: none;
   }
 }
   
@@ -88,6 +88,6 @@
 	display: block;
 	margin-left: 80px;
 	margin-right:auto;
-	float: center;
+	float: none;
   } 
  }
