@@ -60,13 +60,11 @@
 
   nav#tabs ul li{
     float: left;
-    margin-left:110px;
     display:inline;
   }
 
   nav#tabs ul li a {
     display: inline-block;
-    padding: 10px;
     color: gray;
     text-decoration:none;
     background-color: LavenderBlush;
