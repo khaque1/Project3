@@ -16,13 +16,13 @@ nav#tabs ul{
 
 nav#tabs ul li{
   float: left;
-  margin-left:160px;
+  margin-left:130px;
   display:inline;
 }
 
 nav#tabs ul li a {
   display: inline-block;
-  padding: 20px;
+  padding: 10px;
   color: gray;
   text-decoration:none;
   background-color: LavenderBlush;
