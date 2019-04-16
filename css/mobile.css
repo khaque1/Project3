@@ -1,4 +1,4 @@
-@media only screen and (min-width: 400px) {
+@media only screen and (min-width: 800px) {
   #tabs {
 	 display: block;
 	 margin-left: auto;
@@ -6,7 +6,7 @@
 	 float: center;
   }
   #bio {
-	 font-family: "Comic Sans", sans-serif;
+	 font-family: "Palatino Linotype", sans-serif;
 	 text-align: justify;
 	 margin: 20px;
 	 float: left;
