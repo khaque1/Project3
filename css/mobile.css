@@ -36,10 +36,9 @@
   }
  
   #footer {
-	display: block;
-	margin-left: 80px;
-	margin-right:auto;
-	float: none;
+	display: inline;
+	margin-left: 475px;
+	float: left;
   }
 }
   
@@ -82,7 +81,6 @@
  
   #footer {
 	display: block;
-	margin-left: 350px;
 	float: none;
   } 
  }
