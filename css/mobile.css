@@ -16,6 +16,7 @@
   nav#tabs ul li{
     float: left;
     display:inline;
+	margin-left:100px;
   }
 
   nav#tabs ul li a {
@@ -37,7 +38,7 @@
  
   #footer {
 	display: inline;
-	margin-left: 400px;
+	margin-left: 350px;
 	float: left;
   }
 }
@@ -60,6 +61,7 @@
   nav#tabs ul li{
     float: left;
     display:inline;
+	margin-left:160px;
   }
 
   nav#tabs ul li a {
