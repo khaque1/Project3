@@ -30,7 +30,7 @@
     text-align:center;
   }
 
-  #bio {
+  #bio, #subtext {
 	font-family: "Palatino";
 	text-align: justify;
 	margin: 20px;
