@@ -20,7 +20,7 @@
   }
 
   nav#tabs ul li a {
-    display: inline-block;
+    display: inline;
 	padding: 10px;
     color: gray;
     text-decoration:none;
@@ -39,7 +39,7 @@
  
   #footer {
 	display: inline;
-	margin-left: 300px;
+	margin-left: 250px;
 	float: left;
   }
 }
